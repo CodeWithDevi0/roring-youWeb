@@ -53,10 +53,3 @@ QuestLife is a gamified task management web application that helps users track t
 - `logout.php`: Handles user logout
 - `db_connection.php`: Database connection configuration
 
-## Contributing
-
-Contributions to QuestLife are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
